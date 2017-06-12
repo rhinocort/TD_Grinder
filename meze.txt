@@ -1,0 +1,29 @@
+LSL delka
+64.4
+
+USL delka
+64.6
+
+LSL sirka
+1.865
+
+USL sirka
+1.935
+
+LSL vyska
+1.13
+
+USL vyska
+1.2
+
+LSL uhel
+89.5
+
+USL uhel
+90.5
+
+LSL soucet uhlu:	
+359.5
+
+USL soucet uhlu:	
+360.5
